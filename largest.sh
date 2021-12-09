@@ -1,4 +1,5 @@
 #!/bin/bash
+# Script find biggest of three numbers
 echo "Enter first  Number num1"
 read num1
 echo "Enter second Number num2"
