@@ -1,4 +1,5 @@
 #!/bin/bash
+# Naveen
 echo "Enter the number"
 read number
 if [ $number -eq 5 ]
