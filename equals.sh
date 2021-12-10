@@ -1,4 +1,6 @@
 #!/bin/bash
+# Sachin added this line
+# sachin
 echo "Enter the number"
 read number
 if [ $number -eq 5 ]
