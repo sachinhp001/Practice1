@@ -1,4 +1,5 @@
 #!/bin/bash
+# Naveen
 #changed
 echo "Enter the number"
 read number
